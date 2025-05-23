@@ -1,1 +1,1 @@
-# Projects
+ we implemented a Skin Cancer Detection model using Tensorflow. We used a dataset that contains images for the two categories that are malignant or benign. We used the transfer learning technique to achieve better results in less amount of training. We used EfficientNet architecture as the backbone of our model along with the pre-trained weights of the same obtained by training it on the image net datase
